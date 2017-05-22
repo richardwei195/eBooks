@@ -53,3 +53,7 @@ ebooks or nav for nodejs mongo npm mysql and others
 ## web
 
 - [http2讲解]()
+
+## server
+
+- [Nginx入门到精通]()
