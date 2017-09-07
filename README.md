@@ -6,15 +6,15 @@ ebooks or nav for nodejs mongo npm mysql and others
 
 
 ##作用域
----
+
 比如let与var的相关区别，都是作用域中很常见的基础知识
 
 ##垃圾回收
----
+
 传送门  ：[你不知道的JavaScript（上卷）.pdf](https://eggggger.xyz/2016/10/22/node-gc/)
 
 ##ECMAScript 6 入门
----
+
 - 阮一峰老师的必读书籍：[ECMAScript 6 入门](http://es6.ruanyifeng.com)
 
 - [JavaScript语言精粹](https://github.com/weizainiunai/eBooks/blob/master/javascript/JavaScript语言精粹%5B修订版%5D.pdf)
@@ -33,8 +33,8 @@ ebooks or nav for nodejs mongo npm mysql and others
 
 -[编写可维护的JavaScript.pdf](https://github.com/weizainiunai/eBooks/blob/master/javascript/编写可维护的JavaScript.pdf)
 
-##mongodb
----
+## mongodb
+
 - [MongoDB权威指南（第2版）.pdf](https://github.com/weizainiunai/eBooks/blob/master/mongodb/MongoDB权威指南（第2版）.pdf)
 
 - [Mongodb疑难杂症及优化.pdf](https://github.com/weizainiunai/eBooks/blob/master/mongodb/Mongodb疑难杂症及优化.pdf)
@@ -42,8 +42,8 @@ ebooks or nav for nodejs mongo npm mysql and others
 - [mongo.pdf](https://github.com/weizainiunai/eBooks/blob/master/mongodb/mongo.pdf)
 
 
-##Mysql
----
+## Mysql
+
 - [深入浅出MySQL全文.pdf](https://github.com/weizainiunai/eBooks/blob/master/mysql/深入浅出MySQL全文.pdf)
 
 ## Redis
@@ -54,6 +54,16 @@ ebooks or nav for nodejs mongo npm mysql and others
 
 - [http2讲解]()
 
-## server
+## Nginx
 
-- [Nginx入门到精通]()
+- [Nginx入门到精通](https://github.com/richardwei195/eBooks/blob/master/nginx/Nginx%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
+
+- [Nginx教程从入门到精通%28运维生存时间TTLSA出品%29.pdf](https://github.com/richardwei195/eBooks/blob/master/nginx/Nginx%E6%95%99%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%2528%E8%BF%90%E7%BB%B4%E7%94%9F%E5%AD%98%E6%97%B6%E9%97%B4TTLSA%E5%87%BA%E5%93%81%2529.pdf)
+
+## Ops
+
+- [LearnElasticSearch.pdf](https://github.com/richardwei195/eBooks/blob/master/ops/LearnElasticSearch.pdf)
+
+- [Scalability.pdf](https://github.com/richardwei195/eBooks/blob/master/ops/Scalability.pdf)
+
+- [elk-stack-guide-cn.pdf](https://github.com/richardwei195/eBooks/blob/master/ops/elk-stack-guide-cn.pdf)
