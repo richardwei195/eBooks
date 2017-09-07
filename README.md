@@ -5,15 +5,15 @@ ebooks or nav for nodejs mongo npm mysql and others
 >以下所提到的电子书籍均可在[git ebooks](https://github.com/weizainiunai/eBooks)中免费下载，仅供学习交流使用，觉得对您有帮助请给个star~
 
 
-##作用域
+## 作用域
 
 比如let与var的相关区别，都是作用域中很常见的基础知识
 
-##垃圾回收
+## 垃圾回收
 
 传送门  ：[你不知道的JavaScript（上卷）.pdf](https://eggggger.xyz/2016/10/22/node-gc/)
 
-##ECMAScript 6 入门
+## ECMAScript 6 入门
 
 - 阮一峰老师的必读书籍：[ECMAScript 6 入门](http://es6.ruanyifeng.com)
 
