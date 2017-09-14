@@ -31,7 +31,7 @@ ebooks or nav for nodejs mongo npm mysql and others
 
 - [精通JavaScript.pdf](https://github.com/weizainiunai/eBooks/blob/master/javascript/精通JavaScript.pdf)
 
--[编写可维护的JavaScript.pdf](https://github.com/weizainiunai/eBooks/blob/master/javascript/编写可维护的JavaScript.pdf)
+- [编写可维护的JavaScript.pdf](https://github.com/weizainiunai/eBooks/blob/master/javascript/编写可维护的JavaScript.pdf)
 
 ## mongodb
 
@@ -50,9 +50,9 @@ ebooks or nav for nodejs mongo npm mysql and others
 
 - [redis命令参考](http://redisdoc.com)
 
-## web
+## Web
 
-- [http2讲解]()
+- [http2讲解](https://github.com/richardwei195/eBooks/blob/master/web/http2-explained.pdf)
 
 ## Nginx
 
@@ -67,3 +67,14 @@ ebooks or nav for nodejs mongo npm mysql and others
 - [Scalability.pdf](https://github.com/richardwei195/eBooks/blob/master/ops/Scalability.pdf)
 
 - [elk-stack-guide-cn.pdf](https://github.com/richardwei195/eBooks/blob/master/ops/elk-stack-guide-cn.pdf)
+
+## OS
+
+- [现代操作系统.pdf](https://github.com/richardwei195/eBooks/blob/master/os/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
+
+## CS
+- [计算机网络（第7版）-谢希仁.pdf](https://github.com/richardwei195/eBooks/blob/master/cs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)
+
+## DS
+- [a-programmer-prepares.pdf](https://github.com/richardwei195/eBooks/blob/master/ds/a-programmer-prepares.pdf)
+- [数据结构与算法分析：C语言描述_原书第2版_高清版.pdf](https://github.com/richardwei195/eBooks/blob/master/ds/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%9AC%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0_%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88_%E9%AB%98%E6%B8%85%E7%89%88.pdf)
